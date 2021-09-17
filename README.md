@@ -1,6 +1,9 @@
 <h1 align="center">Hello ^-^, I'm Nisheet Karan</h1>
 <h3 align="center">A person who loves trying out new things.</h3>
 
+<p align="left"> <img src="https://miro.medium.com/max/1400/1*hwR_VDaY0wA5J4aPL6j9Zw.gif" alt="khushboogoel01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 <p align="left"> <a href="https://twitter.com/nisheetkaran" target="blank"><img src="https://img.shields.io/twitter/follow/nisheetkaran?logo=twitter&style=for-the-badge" alt="nisheetkaran" /></a> </p>
 
 - 📫 How to reach me **nisheet.karan@iiitg.ac.in**
