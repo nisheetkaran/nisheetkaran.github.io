@@ -1,4 +1,4 @@
-<h1 align="center">Hello ^-^, I'm Nisheet Karan</h1>
+<h1 align="center">Hey there, I'm Nisheet Karan</h1>
 <h3 align="center">A person who loves trying out new things.</h3>
 
 <p align="left"> <img src="https://miro.medium.com/max/1400/1*hwR_VDaY0wA5J4aPL6j9Zw.gif" alt="khushboogoel01" /> </p>
